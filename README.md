@@ -1,4 +1,5 @@
 Descrição
+
 Este projeto visa simular a detecção de níveis de óleo na água utilizando um potenciômetro, uma placa Arduino Uno e o Tinkercad. A simulação demonstra como um sensor pode variar a resistência em função da presença de óleo e água, fornecendo diferentes leituras que são interpretadas pelo Arduino.
 
 Materiais Necessários
